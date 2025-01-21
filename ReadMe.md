@@ -23,3 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kyne0328&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317ul3zbtp5s3x4ivx5dcmjj7meu)
